@@ -283,7 +283,7 @@
         </div>
         <div class="tile">
           <h3>LinkedIn</h3>
-          <p><a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank" rel="noopener">linkedin.com/in/YOUR‑LINKEDIN‑HANDLE</a></p>
+          <p><a href="www.linkedin.com/in/teja-a-9719b31a2" target="_blank" rel="noopener">linkedin.com/in/YOUR‑LINKEDIN‑HANDLE</a></p>
         </div>
       </div>
       <div style="margin-top:14px;display:flex;gap:10px;flex-wrap:wrap">
